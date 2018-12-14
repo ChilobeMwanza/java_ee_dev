@@ -1,3 +1,4 @@
+
 html {
   font-size: 14px;
 }
@@ -12,11 +13,11 @@ html {
 }
 
 .about-me-header {
-  max-width: 700px;
+  /*max-width: 700px;*/
 }
 
 .card-deck .card {
-  min-width: 220px;
+  min-width: 200px;
 }
 
 .border-top { border-top: 1px solid #e5e5e5; }
