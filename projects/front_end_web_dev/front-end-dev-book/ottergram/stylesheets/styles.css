@@ -9,6 +9,16 @@ a
   text-decoration: none;
 }
 
+.logo-text
+{
+  background: white;
+
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 37px;
+
+}
+
 .thumbnail-item + .thumbnail-item /*targets all .thumbnail-item elements which are immediately preceded by another .thumbnail-item*/
 {
   margin: top:10px;
@@ -24,7 +34,7 @@ a
 .thumbnail-list
 {
   list-style: none;
-  padding: 0;*
+  padding: 0;
 }
 
 .thumbnail-image
